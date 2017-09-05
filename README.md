@@ -1,2 +1,2 @@
 # 2-D-CAR-GAME
-A car game using opengl built using visual studio
+A car game using opengl.
